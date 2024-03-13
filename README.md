@@ -16,7 +16,7 @@
   <img align="center" alt="css" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
 </div><br/>
 
-Sou apaixonada tecnologia e por gestão, trabalho com a motivação de transformar minha paixão em inovação.
+Sou apaixonada tecnologia e por pessoas, trabalho com a motivação de proporcionar a melhor experiência para os clientes e transformar minha paixão em inovação.
 
 ## Como entrar em contato comigo:
 Email: valeria@vts.com.br <br/>
