@@ -1,6 +1,7 @@
 ### Olá! Eu sou a Valéria Godoi 🖐️
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/valeriagodoi_)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/val%C3%A9riagodoi/)
 
 
 ![vaabg GitHub stats](https://github-readme-stats.vercel.app/api?username=vaabg&show_icons=true&theme=radical)
